@@ -501,6 +501,8 @@
       "https://github.com/opencost/opencost-ui"
     ],
     "openiddict": "https://github.com/openiddict/openiddict-core",
+    "opentelemetry-collector": "https://github.com/open-telemetry/opentelemetry-collector"
+    "opentelemetry-collector-contrib": "https://github.com/open-telemetry/opentelemetry-collector-contrib"
     "opentelemetry-dotnet": "https://github.com/open-telemetry/opentelemetry-dotnet",
     "opentelemetry-dotnet-contrib": "https://github.com/open-telemetry/opentelemetry-dotnet-contrib",
     "opentelemetry-erlang": "https://github.com/open-telemetry/opentelemetry-erlang",
